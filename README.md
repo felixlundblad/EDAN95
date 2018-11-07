@@ -12,3 +12,5 @@ Murphy, https://github.com/jonesgithub/book-1/blob/master/ML%20Machine%20Learnin
 Chollet, https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff
 
 Solutions to tasks in Chollet, https://github.com/fchollet/deep-learning-with-python-notebooks
+
+Scientific Python Lectures on github, https://github.com/jrjohansson/scientific-python-lectures 
